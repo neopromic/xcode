@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
 
 img {
-  width: 250px;
-  height: 250px;
+  width: 100%;
+  height: 100%;
 }
 button {
   position: absolute;
