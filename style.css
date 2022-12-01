@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
 
-img {
-  height: 100%;
-  width: 100%;
+body {
+  background: url(image.png);
 }
