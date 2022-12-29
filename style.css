@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
 
 .html {
- background-color: #F9C3B5FF
+ background-color: #F9C3B5FF;
 }
 img {
   width: 100%;
@@ -16,5 +16,5 @@ button {
   border-radius: 30px;
 }
 h1 {
- color: #FFFFFF
+ color: #FFFFFF;
 }
